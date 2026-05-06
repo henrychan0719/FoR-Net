@@ -116,7 +116,7 @@ Preprint available on arXiv.
 
 ---
 
-## 🧪 Future Work
+## Future Work
 
 - Adaptive Top-K selection
 - Dynamic region reasoning
