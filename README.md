@@ -1,6 +1,6 @@
 # FoR-Net
 
-**FoR-Net: Learning to Focus on Hard Regions for Efficient Semantic Segmentation** :contentReference[oaicite:0]{index=0}
+**FoR-Net: Learning to Focus on Hard Regions for Efficient Semantic Segmentation** 
 
 ---
 
